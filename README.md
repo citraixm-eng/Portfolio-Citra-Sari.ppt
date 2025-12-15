@@ -29,8 +29,8 @@ Jika sudah menambahkan file preview, gunakan format ini untuk menampilkan gambar
 
 ## Kontak
 - Nama: Citra Sari
-- Email: email@example.com (ganti dengan alamat Anda)
-- LinkedIn: https://www.linkedin.com/in/your-linkedin (opsional)
+- Email: citra.ixm@gmail.com (ganti dengan alamat Anda)
+- LinkedIn: https://www.linkedin.com/in/citra-sari-ariska (opsional)
 
 ## Lisensi
 Lisensi default: MIT (lihat file LICENSE). Jika Anda ingin membatasi penggunaan portofolio (mis. semua hak cipta dilindungi), ganti dengan teks "All rights reserved" dan hapus LICENSE.
